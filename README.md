@@ -1,4 +1,9 @@
-# m7_evaluacion_s1
+# Curso Desarrollo de Aplicaciones Front-end Trainee 2023
+
+## Modulo 7 - Desarrollo de Aplicaciones Front-End con Framework Vue
+Sesión 1
+
+DRILLING: GUÍA POKÉMON
 
 ## Project setup
 ```
